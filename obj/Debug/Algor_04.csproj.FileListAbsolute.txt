@@ -1,0 +1,9 @@
+c:\users\花丸\documents\visual studio 2013\Projects\Algor_04\bin\Debug\Algor_04.exe.config
+c:\users\花丸\documents\visual studio 2013\Projects\Algor_04\bin\Debug\Algor_04.exe
+c:\users\花丸\documents\visual studio 2013\Projects\Algor_04\bin\Debug\Algor_04.pdb
+c:\users\花丸\documents\visual studio 2013\Projects\Algor_04\obj\Debug\Algor_04.Form1.resources
+c:\users\花丸\documents\visual studio 2013\Projects\Algor_04\obj\Debug\Algor_04.Properties.Resources.resources
+c:\users\花丸\documents\visual studio 2013\Projects\Algor_04\obj\Debug\Algor_04.csproj.GenerateResource.Cache
+c:\users\花丸\documents\visual studio 2013\Projects\Algor_04\obj\Debug\Algor_04.exe
+c:\users\花丸\documents\visual studio 2013\Projects\Algor_04\obj\Debug\Algor_04.pdb
+c:\users\花丸\documents\visual studio 2013\Projects\Algor_04\obj\Debug\Algor_04.csprojResolveAssemblyReference.cache
